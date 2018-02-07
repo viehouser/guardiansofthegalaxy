@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Lora|Oswald");
 html {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
@@ -11448,4 +11449,22 @@ iframe.uk-cover {
 .me-cannotplay span {
   padding: 15px;
   display: block;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+}
+
+body {
+  font-family: 'Lora', serif;
+  background: light gray;
+}
+
+li {
+  list-style-type: none;
+}
+
+img {
+  width: 20%;
 }

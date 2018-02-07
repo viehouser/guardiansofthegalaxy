@@ -6,18 +6,24 @@
 h1{
   text-transform: uppercase;
   font-family: 'Oswald', sans-serif;
-}
-
-.char1 {
-  color:orange;
-}
-
-.char18 {
-  color:blue;
+  
 }
 
 // body
 
+
 body{
   font-family: 'Lora', serif;
+  background: light gray;
+   
 }
+
+li{
+  list-style-type:none;
+}
+
+img{
+  width:20%;
+}
+
+//footer

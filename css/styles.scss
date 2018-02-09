@@ -6,6 +6,7 @@
 h1{
   text-transform: uppercase;
   font-family: 'Oswald', sans-serif;
+  color:white;
   
 }
 
@@ -13,17 +14,16 @@ h1{
 
 
 body{
-  font-family: 'Lora', serif;
-  background: light gray;
+  font-family: 'Barlow Condensed', sans-serif;
+  size:1em;
+  color:white;
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/1488102/Space.jpg");
    
 }
 
 li{
-  list-style-type:none;
+  
 }
 
-img{
-  width:20%;
-}
 
 //footer

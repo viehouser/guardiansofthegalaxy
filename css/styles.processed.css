@@ -11454,17 +11454,12 @@ iframe.uk-cover {
 h1 {
   text-transform: uppercase;
   font-family: 'Oswald', sans-serif;
+  color: white;
 }
 
 body {
-  font-family: 'Lora', serif;
-  background: light gray;
-}
-
-li {
-  list-style-type: none;
-}
-
-img {
-  width: 20%;
+  font-family: 'Barlow Condensed', sans-serif;
+  size: 1em;
+  color: white;
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/1488102/Space.jpg");
 }
